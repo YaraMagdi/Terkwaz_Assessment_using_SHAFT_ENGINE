@@ -9,7 +9,11 @@ import org.testng.annotations.Test;
 
 public class CatFact {
 
-    @Test
+    /**
+     * Preform GET action to specified REST request URL
+     * Validate the returned response body form specified URL is not empty
+     */
+    @Test(description = "TC004 - Validate returned response body is not empty")
     public void validateResponseIsNotEmpty() {
 	RestActions apiObject = new RestActions("https://alexwohlbruck.github.io/cat-facts");
 	Response catFact = apiObject.performRequest(RequestType.GET, 200, "/");

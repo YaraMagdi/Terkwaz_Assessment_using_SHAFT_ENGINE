@@ -7,16 +7,18 @@ import org.openqa.selenium.WebDriver;
 
 public class FileUploadPage {
 
+    // declaring webdriver object and web elements that will be used in this class
     private WebDriver driver;
-
     private By inputField = By.id("file-upload");
     private By uploadButton = By.id("file-submit");
     private By uploadedFiles = By.id("uploaded-files");
 
+    // Initializing the constructor for this class
     public FileUploadPage(WebDriver driver){
         this.driver = driver;
     }
 
+    // A method to perform click action on specified web element
     public void clickUploadButton(){
         ElementActions.click(driver, uploadButton);
     }
@@ -30,9 +32,15 @@ public class FileUploadPage {
         clickUploadButton();
     }
 
+    /**
+     * A method to get uploaded files
+     * @return Uploaded Files text will be returned as string
+     */
     public String getUploadedFiles(){
         return ElementActions.getText(driver, uploadedFiles);
     }
+
+    // Assert the uploaded Image is correct
     public void assertUploadedImageIsCorrect() {
         Assertions.assertEquals("unnamed.jpg", getUploadedFiles(), Assertions.AssertionComparisonType.CONTAINS, Assertions.AssertionType.POSITIVE);
     }
