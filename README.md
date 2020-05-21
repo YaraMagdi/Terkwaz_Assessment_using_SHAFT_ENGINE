@@ -1,6 +1,8 @@
 # Terkwaz SDET Assessment Using SHAFT_ENGINE
 **Terkwaz Assessment Using SHAFT_ENGINE** is a assessment project to perform some GUI and API Tests using SHAFT_ENGINE and its rich features, while applying the best practices for Test Automation project design.
 
+**Using Page Object Model design pattern**
+
 ## These Test Automation Scripts built With : 
 * Java 13
 * Maven
