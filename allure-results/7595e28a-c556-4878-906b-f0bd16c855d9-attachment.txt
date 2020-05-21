@@ -1,0 +1,13 @@
+
+################################################################################################################################################
+Starting Execution:	[4 out of 5] test cases in the current suite
+Test Method:		[tests.apitests.CatFact.validateResponseIsNotEmpty]
+################################################################################################################################################
+[ReportManager] Evaluating the actual response status code against the expected one...... @21-05-2020 16:30:43.0876 PM
+[ReportManager] AssertEquals PASSED; Expected [200] and Actual [200]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @21-05-2020 16:30:43.0876 PM
+[ReportManager] API Action [performRequest] successfully performed. With the following test data [Request Type: "GET" | Target Status Code: "200" | Service URL: "https://alexwohlbruck.github.io/cat-facts/" | Content Type: "*/*" | Response Time: "2146ms"]. @21-05-2020 16:30:44.0211 PM
+[ReportManager] Successfully created attachment [API Response - Body] @21-05-2020 16:30:44.0211 PM
+[ReportManager] Will pass only if Response body is not empty!... @21-05-2020 16:30:44.0215 PM
+[ReportManager] AssertNull PASSED; Expected and Actual values are attached. Comparison Type [EQUALS]. Validation Type [NEGATIVE]. @21-05-2020 16:30:44.0215 PM
+[ReportManager] Successfully created attachment [Validation Test Data - Expected Value] @21-05-2020 16:30:44.0217 PM
+[ReportManager] Successfully created attachment [Validation Test Data - Actual Value] @21-05-2020 16:30:44.0217 PM

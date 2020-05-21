@@ -1,0 +1,13 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 5] test cases in the current suite
+Test Method:		[tests.guitests.DynamicLoadingExample2Tests.WaitUntilDisplayed]
+Test Description:	[TC002 - Wait for Dynamic loading example 2 result to be displayed]
+################################################################################################################################################
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20200521-162909", Target File: "\1590071368009_WaitUntilDisplayed.gif"]. @21-05-2020 16:29:28.0135 PM
+[ReportManager] Element Action [click] successfully performed. With the following test data [Dynamic Loading]. @21-05-2020 16:29:32.0504 PM
+[ReportManager] Element Action [click] successfully performed. With the following test data [Example 2: Element rendered after the fact]. @21-05-2020 16:29:36.0536 PM
+[ReportManager] Element Action [click] successfully performed. With the following test data [Start]. @21-05-2020 16:29:39.0815 PM
+[ReportManager] Element Action [getText] successfully performed. With the following test data [Hello World!]. @21-05-2020 16:29:45.0065 PM
+[ReportManager] AssertEquals PASSED; Expected [Hello World!] and Actual [Hello World!]. Comparison Type [CONTAINS]. Validation Type [POSITIVE]. @21-05-2020 16:29:45.0098 PM
+[ReportManager] Successfully created attachment [Animated Gif - WaitUntilDisplayed] @21-05-2020 16:29:45.0106 PM

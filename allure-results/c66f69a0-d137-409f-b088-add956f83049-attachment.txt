@@ -1,0 +1,16 @@
+[ReportManager] Reading test data from the following file [src/test/resources/TestDataFiles/Google/GoogleSearch.xlsx]. @21-05-2020 16:30:15.0328 PM
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @21-05-2020 16:30:15.0328 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - browser] @21-05-2020 16:30:15.0341 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - driver] @21-05-2020 16:30:15.0349 PM
+[ReportManager] Successfully Closed All Browsers. @21-05-2020 16:30:16.0133 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @21-05-2020 16:30:16.0134 PM
+[ReportManager] Identifying OS/Browser combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @21-05-2020 16:30:16.0134 PM
+[ReportManager] Successfully Opened Google Chrome. @21-05-2020 16:30:19.0798 PM
+[ReportManager] Initial window size: (1051, 815) @21-05-2020 16:30:21.0849 PM
+[ReportManager] Window size after SWD Maximize: (1552, 849) @21-05-2020 16:30:21.0983 PM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20200521-162909", Target File: "\1590071422586_initializeGlobalObjectsAndNavigateToGoogleHomePage.gif"]. @21-05-2020 16:30:22.0649 PM
+[ReportManager] Browser Action [maximizeWindow] successfully performed. With the following test data [New screen size is now: (1552, 849)]. @21-05-2020 16:30:24.0729 PM
+[ReportManager] Target URL: [https://www.google.com/ncr], and after redirection if any: [https://www.google.com] @21-05-2020 16:30:24.0787 PM
+[ReportManager] Initial URL: [data:,] @21-05-2020 16:30:24.0881 PM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [https://www.google.com/ncr]. @21-05-2020 16:30:28.0697 PM
+[ReportManager] Successfully created attachment [Animated Gif - initializeGlobalObjectsAndNavigateToGoogleHomePage] @21-05-2020 16:30:28.0697 PM

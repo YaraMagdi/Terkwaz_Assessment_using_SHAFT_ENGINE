@@ -1,0 +1,13 @@
+
+################################################################################################################################################
+Starting Execution:	[3 out of 5] test cases in the current suite
+Test Method:		[tests.guitests.GoogleSearchTests.searchForDataAndAssertTextOfTheThirdResult]
+Test Description:	[TC001 - Search for Query and Assert that the link of the first result matches the expected text]
+################################################################################################################################################
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20200521-162909", Target File: "\1590071429583_searchForDataAndAssertTextOfTheThirdResult.gif"]. @21-05-2020 16:30:29.0653 PM
+[ReportManager] Element Action [type] successfully performed. With the following test data [selenium webdriver]. @21-05-2020 16:30:31.0302 PM
+[ReportManager] Element Action [keyPress] successfully performed. With the following test data [ENTER]. @21-05-2020 16:30:34.0718 PM
+[ReportManager] Element Action [getText] successfully performed. With the following test data [WebDriver :: Documentation for Selenium]. @21-05-2020 16:30:36.0399 PM
+[ReportManager] AssertElementAttribute FAILED; Expected [Value Should be 'What is Selenium WebDriver?' for the 'Text' attribute, element locator 'By.xpath: //*[@id="rso"]/div[4]//a/h3'] and Actual [WebDriver :: Documentation for Selenium]. Comparison Type [CONTAINS]. Validation Type [POSITIVE]. @21-05-2020 16:30:38.0355 PM
+[ReportManager] Successfully created attachment [Screenshot - 1590071437018_searchForDataAndAssertTextOfTheThirdResult_AssertElementAttribute_failed] @21-05-2020 16:30:38.0356 PM
+[ReportManager] Successfully created attachment [Animated Gif - searchForDataAndAssertTextOfTheThirdResult] @21-05-2020 16:30:38.0362 PM

@@ -1,0 +1,133 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [4.2.20200511]
+################################################################################################################################################
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @21-05-2020 16:29:10.0244 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @21-05-2020 16:29:10.0346 PM
+[ReportManager] Identifying OS/Browser combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @21-05-2020 16:29:10.0348 PM
+[ReportManager] Successfully Opened Google Chrome. @21-05-2020 16:29:15.0878 PM
+[ReportManager] Initial window size: (1051, 815) @21-05-2020 16:29:17.0935 PM
+[ReportManager] Window size after SWD Maximize: (1552, 849) @21-05-2020 16:29:18.0078 PM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20200521-162909", Target File: "\1590071358703_initializeGlobalObjectsAndNavigateToGoogleHomePage.gif"]. @21-05-2020 16:29:19.0006 PM
+[ReportManager] Browser Action [maximizeWindow] successfully performed. With the following test data [New screen size is now: (1552, 849)]. @21-05-2020 16:29:21.0372 PM
+[ReportManager] Target URL: [https://the-internet.herokuapp.com/], and after redirection if any: [https://the-internet.herokuapp.com/] @21-05-2020 16:29:21.0377 PM
+[ReportManager] Initial URL: [data:,] @21-05-2020 16:29:21.0473 PM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [https://the-internet.herokuapp.com/]. @21-05-2020 16:29:26.0718 PM
+[ReportManager] Successfully created attachment [Animated Gif - initializeGlobalObjectsAndNavigateToGoogleHomePage] @21-05-2020 16:29:26.0729 PM
+
+################################################################################################################################################
+Starting Execution:	[1 out of 5] test cases in the current suite
+Test Method:		[tests.guitests.DynamicLoadingExample2Tests.WaitUntilDisplayed]
+Test Description:	[TC002 - Wait for Dynamic loading example 2 result to be displayed]
+################################################################################################################################################
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20200521-162909", Target File: "\1590071368009_WaitUntilDisplayed.gif"]. @21-05-2020 16:29:28.0135 PM
+[ReportManager] Element Action [click] successfully performed. With the following test data [Dynamic Loading]. @21-05-2020 16:29:32.0504 PM
+[ReportManager] Element Action [click] successfully performed. With the following test data [Example 2: Element rendered after the fact]. @21-05-2020 16:29:36.0536 PM
+[ReportManager] Element Action [click] successfully performed. With the following test data [Start]. @21-05-2020 16:29:39.0815 PM
+[ReportManager] Element Action [getText] successfully performed. With the following test data [Hello World!]. @21-05-2020 16:29:45.0065 PM
+[ReportManager] AssertEquals PASSED; Expected [Hello World!] and Actual [Hello World!]. Comparison Type [CONTAINS]. Validation Type [POSITIVE]. @21-05-2020 16:29:45.0098 PM
+[ReportManager] Successfully created attachment [Animated Gif - WaitUntilDisplayed] @21-05-2020 16:29:45.0106 PM
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @21-05-2020 16:29:45.0361 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - browser] @21-05-2020 16:29:45.0382 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - driver] @21-05-2020 16:29:45.0394 PM
+[ReportManager] Successfully Closed All Browsers. @21-05-2020 16:29:46.0230 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @21-05-2020 16:29:46.0234 PM
+[ReportManager] Identifying OS/Browser combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @21-05-2020 16:29:46.0236 PM
+[ReportManager] Successfully Opened Google Chrome. @21-05-2020 16:29:49.0944 PM
+[ReportManager] Initial window size: (1051, 815) @21-05-2020 16:29:51.0978 PM
+[ReportManager] Window size after SWD Maximize: (1552, 849) @21-05-2020 16:29:52.0209 PM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20200521-162909", Target File: "\1590071393021_initializeGlobalObjectsAndNavigateToGoogleHomePage.gif"]. @21-05-2020 16:29:53.0095 PM
+[ReportManager] Browser Action [maximizeWindow] successfully performed. With the following test data [New screen size is now: (1552, 849)]. @21-05-2020 16:29:55.0010 PM
+[ReportManager] Target URL: [https://the-internet.herokuapp.com/], and after redirection if any: [https://the-internet.herokuapp.com/] @21-05-2020 16:29:55.0010 PM
+[ReportManager] Initial URL: [data:,] @21-05-2020 16:29:55.0099 PM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [https://the-internet.herokuapp.com/]. @21-05-2020 16:30:00.0328 PM
+[ReportManager] Successfully created attachment [Animated Gif - initializeGlobalObjectsAndNavigateToGoogleHomePage] @21-05-2020 16:30:00.0331 PM
+
+################################################################################################################################################
+Starting Execution:	[2 out of 5] test cases in the current suite
+Test Method:		[tests.guitests.FileUploadTests.testFileUpload]
+Test Description:	[TC003 - Upload Image successfully]
+################################################################################################################################################
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20200521-162909", Target File: "\1590071401306_testFileUpload.gif"]. @21-05-2020 16:30:01.0398 PM
+[ReportManager] Element Action [click] successfully performed. With the following test data [File Upload]. @21-05-2020 16:30:05.0164 PM
+[ReportManager] Element Action [type] successfully performed. With the following test data [D:\My_Workspaces\My_TestAutomation_Workspace\Terkwaz_Assessment\Terkwaz_Assessment_using_SHAFT_ENGINE\src\test\resources\unnamed.jpg]. @21-05-2020 16:30:06.0716 PM
+[ReportManager] Element Action [click] successfully performed. @21-05-2020 16:30:11.0310 PM
+[ReportManager] Element Action [getText] successfully performed. With the following test data [unnamed.jpg]. @21-05-2020 16:30:12.0828 PM
+[ReportManager] AssertEquals PASSED; Expected [unnamed.jpg] and Actual [unnamed.jpg]. Comparison Type [CONTAINS]. Validation Type [POSITIVE]. @21-05-2020 16:30:12.0828 PM
+[ReportManager] Successfully created attachment [Animated Gif - testFileUpload] @21-05-2020 16:30:12.0832 PM
+[ReportManager] Reading test data from the following file [src/test/resources/TestDataFiles/Google/GoogleSearch.xlsx]. @21-05-2020 16:30:15.0328 PM
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @21-05-2020 16:30:15.0328 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - browser] @21-05-2020 16:30:15.0341 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - driver] @21-05-2020 16:30:15.0349 PM
+[ReportManager] Successfully Closed All Browsers. @21-05-2020 16:30:16.0133 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @21-05-2020 16:30:16.0134 PM
+[ReportManager] Identifying OS/Browser combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @21-05-2020 16:30:16.0134 PM
+[ReportManager] Successfully Opened Google Chrome. @21-05-2020 16:30:19.0798 PM
+[ReportManager] Initial window size: (1051, 815) @21-05-2020 16:30:21.0849 PM
+[ReportManager] Window size after SWD Maximize: (1552, 849) @21-05-2020 16:30:21.0983 PM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20200521-162909", Target File: "\1590071422586_initializeGlobalObjectsAndNavigateToGoogleHomePage.gif"]. @21-05-2020 16:30:22.0649 PM
+[ReportManager] Browser Action [maximizeWindow] successfully performed. With the following test data [New screen size is now: (1552, 849)]. @21-05-2020 16:30:24.0729 PM
+[ReportManager] Target URL: [https://www.google.com/ncr], and after redirection if any: [https://www.google.com] @21-05-2020 16:30:24.0787 PM
+[ReportManager] Initial URL: [data:,] @21-05-2020 16:30:24.0881 PM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [https://www.google.com/ncr]. @21-05-2020 16:30:28.0697 PM
+[ReportManager] Successfully created attachment [Animated Gif - initializeGlobalObjectsAndNavigateToGoogleHomePage] @21-05-2020 16:30:28.0697 PM
+
+################################################################################################################################################
+Starting Execution:	[3 out of 5] test cases in the current suite
+Test Method:		[tests.guitests.GoogleSearchTests.searchForDataAndAssertTextOfTheThirdResult]
+Test Description:	[TC001 - Search for Query and Assert that the link of the first result matches the expected text]
+################################################################################################################################################
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20200521-162909", Target File: "\1590071429583_searchForDataAndAssertTextOfTheThirdResult.gif"]. @21-05-2020 16:30:29.0653 PM
+[ReportManager] Element Action [type] successfully performed. With the following test data [selenium webdriver]. @21-05-2020 16:30:31.0302 PM
+[ReportManager] Element Action [keyPress] successfully performed. With the following test data [ENTER]. @21-05-2020 16:30:34.0718 PM
+[ReportManager] Element Action [getText] successfully performed. With the following test data [WebDriver :: Documentation for Selenium]. @21-05-2020 16:30:36.0399 PM
+[ReportManager] AssertElementAttribute FAILED; Expected [Value Should be 'What is Selenium WebDriver?' for the 'Text' attribute, element locator 'By.xpath: //*[@id="rso"]/div[4]//a/h3'] and Actual [WebDriver :: Documentation for Selenium]. Comparison Type [CONTAINS]. Validation Type [POSITIVE]. @21-05-2020 16:30:38.0355 PM
+[ReportManager] Successfully created attachment [Screenshot - 1590071437018_searchForDataAndAssertTextOfTheThirdResult_AssertElementAttribute_failed] @21-05-2020 16:30:38.0356 PM
+[ReportManager] Successfully created attachment [Animated Gif - searchForDataAndAssertTextOfTheThirdResult] @21-05-2020 16:30:38.0362 PM
+
+################################################################################################################################################
+Starting Execution:	[4 out of 5] test cases in the current suite
+Test Method:		[tests.apitests.CatFact.validateResponseIsNotEmpty]
+################################################################################################################################################
+[ReportManager] Evaluating the actual response status code against the expected one...... @21-05-2020 16:30:43.0876 PM
+[ReportManager] AssertEquals PASSED; Expected [200] and Actual [200]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @21-05-2020 16:30:43.0876 PM
+[ReportManager] API Action [performRequest] successfully performed. With the following test data [Request Type: "GET" | Target Status Code: "200" | Service URL: "https://alexwohlbruck.github.io/cat-facts/" | Content Type: "*/*" | Response Time: "2146ms"]. @21-05-2020 16:30:44.0211 PM
+[ReportManager] Successfully created attachment [API Response - Body] @21-05-2020 16:30:44.0211 PM
+[ReportManager] Will pass only if Response body is not empty!... @21-05-2020 16:30:44.0215 PM
+[ReportManager] AssertNull PASSED; Expected and Actual values are attached. Comparison Type [EQUALS]. Validation Type [NEGATIVE]. @21-05-2020 16:30:44.0215 PM
+[ReportManager] Successfully created attachment [Validation Test Data - Expected Value] @21-05-2020 16:30:44.0217 PM
+[ReportManager] Successfully created attachment [Validation Test Data - Actual Value] @21-05-2020 16:30:44.0217 PM
+
+################################################################################################################################################
+Starting Execution:	[5 out of 5] test cases in the current suite
+Test Method:		[tests.apitests.UserData.validateUserEmail]
+################################################################################################################################################
+[ReportManager] Evaluating the actual response status code against the expected one...... @21-05-2020 16:30:44.0938 PM
+[ReportManager] AssertEquals PASSED; Expected [200] and Actual [200]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @21-05-2020 16:30:44.0938 PM
+[ReportManager] API Action [performRequest] successfully performed. With the following test data [Request Type: "GET" | Target Status Code: "200" | Service URL: "https://jsonplaceholder.typicode.com/users" | Content Type: "*/*" | Response Time: "687ms"]. @21-05-2020 16:30:46.0832 PM
+[ReportManager] Successfully created attachment [API Response - JSON Body] @21-05-2020 16:30:46.0836 PM
+[ReportManager] AssertEquals PASSED; Expected and Actual values are attached. Comparison Type [CONTAINS]. Validation Type [POSITIVE]. @21-05-2020 16:30:46.0836 PM
+[ReportManager] Successfully created attachment [Validation Test Data - Expected Value] @21-05-2020 16:30:46.0840 PM
+[ReportManager] Successfully created attachment [Validation Test Data - Actual Value] @21-05-2020 16:30:46.0844 PM
+[ReportManager] API Action [getResponseJSONValueAsList] successfully performed. With the following test data [$]. @21-05-2020 16:30:46.0893 PM
+[ReportManager] API Action [getResponseJSONValue] successfully performed. With the following test data [name]. @21-05-2020 16:30:46.0943 PM
+[ReportManager] API Action [getResponseJSONValue] successfully performed. With the following test data [email]. @21-05-2020 16:30:46.0979 PM
+[ReportManager] AssertEquals PASSED; Expected [Sincere@april.biz] and Actual [Sincere@april.biz]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @21-05-2020 16:30:46.0980 PM
+[ReportManager] API Action [getResponseJSONValue] successfully performed. With the following test data [name]. @21-05-2020 16:30:47.0013 PM
+[ReportManager] API Action [getResponseJSONValue] successfully performed. With the following test data [name]. @21-05-2020 16:30:47.0068 PM
+[ReportManager] API Action [getResponseJSONValue] successfully performed. With the following test data [name]. @21-05-2020 16:30:47.0102 PM
+[ReportManager] API Action [getResponseJSONValue] successfully performed. With the following test data [name]. @21-05-2020 16:30:47.0139 PM
+[ReportManager] API Action [getResponseJSONValue] successfully performed. With the following test data [name]. @21-05-2020 16:30:47.0174 PM
+[ReportManager] API Action [getResponseJSONValue] successfully performed. With the following test data [name]. @21-05-2020 16:30:47.0202 PM
+[ReportManager] API Action [getResponseJSONValue] successfully performed. With the following test data [name]. @21-05-2020 16:30:47.0230 PM
+[ReportManager] API Action [getResponseJSONValue] successfully performed. With the following test data [name]. @21-05-2020 16:30:47.0254 PM
+[ReportManager] API Action [getResponseJSONValue] successfully performed. With the following test data [name]. @21-05-2020 16:30:47.0288 PM
+
+################################################################################################################################################
+Test Closure Activities
+################################################################################################################################################
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @21-05-2020 16:30:49.0983 PM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [4.2.20200511]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################

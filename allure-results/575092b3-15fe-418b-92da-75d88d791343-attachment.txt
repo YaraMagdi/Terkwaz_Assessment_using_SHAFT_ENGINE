@@ -1,0 +1,15 @@
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @21-05-2020 16:29:45.0361 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - browser] @21-05-2020 16:29:45.0382 PM
+[ReportManager] Successfully created attachment [Selenium WebDriver Logs - driver] @21-05-2020 16:29:45.0394 PM
+[ReportManager] Successfully Closed All Browsers. @21-05-2020 16:29:46.0230 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @21-05-2020 16:29:46.0234 PM
+[ReportManager] Identifying OS/Browser combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @21-05-2020 16:29:46.0236 PM
+[ReportManager] Successfully Opened Google Chrome. @21-05-2020 16:29:49.0944 PM
+[ReportManager] Initial window size: (1051, 815) @21-05-2020 16:29:51.0978 PM
+[ReportManager] Window size after SWD Maximize: (1552, 849) @21-05-2020 16:29:52.0209 PM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20200521-162909", Target File: "\1590071393021_initializeGlobalObjectsAndNavigateToGoogleHomePage.gif"]. @21-05-2020 16:29:53.0095 PM
+[ReportManager] Browser Action [maximizeWindow] successfully performed. With the following test data [New screen size is now: (1552, 849)]. @21-05-2020 16:29:55.0010 PM
+[ReportManager] Target URL: [https://the-internet.herokuapp.com/], and after redirection if any: [https://the-internet.herokuapp.com/] @21-05-2020 16:29:55.0010 PM
+[ReportManager] Initial URL: [data:,] @21-05-2020 16:29:55.0099 PM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [https://the-internet.herokuapp.com/]. @21-05-2020 16:30:00.0328 PM
+[ReportManager] Successfully created attachment [Animated Gif - initializeGlobalObjectsAndNavigateToGoogleHomePage] @21-05-2020 16:30:00.0331 PM
